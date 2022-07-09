@@ -1,4 +1,4 @@
-#Welcome to Momentum Rush Privacy Policy for Android!
+Welcome to Momentum Rush Privacy Policy for Android!
 
 As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
